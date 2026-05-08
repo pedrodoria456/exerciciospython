@@ -1,0 +1,6 @@
+n1 = float (input ("Digite um número: "))
+n2 = float (input ("Digite outro número: "))
+print ("soma: ", n1 + n2)
+print ("subtração: ", n1 - n2)
+print ("multiplicação: ", n1 * n2)
+print ("divisão: ", n1 / n2)
